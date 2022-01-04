@@ -1,5 +1,5 @@
 public class Main{
     public static void main(String[] args){
-        System.out.println("Bonjour, Jenkins token GitHub. Main Branch");
+        System.out.println("Bonjour, Jenkins token GitHub. new Main Branch");
     }
 }
